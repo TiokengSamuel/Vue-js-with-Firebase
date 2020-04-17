@@ -1,0 +1,73 @@
+@import 'bootstrap/scss/bootstrap';
+@import './admin.scss';
+
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.hero-content{
+    margin-bottom: 100px;
+}
+
+.nav-outline-btn {
+    border-color: #63c6ff;
+    
+}
+
+.nav-outline-btn:hover {
+    background-color: #63c6ff;
+    box-shadow: #fff;
+}
+
+.search-text {
+    color: #63c6ff;
+}
+
+.hero-outline-btn, .hero-btn, .about-btn {
+    border-radius: 30%;
+}
+
+.btn-hero, .about-btn{
+    background-color: #63c6ff;
+}
+
+.hero-btn:hover{
+color: rgba(13, 52, 223, 0.644);
+}
+
+.hero-outline-btn {
+    margin-left: 20px;
+    border-color: #63c6ff;;
+}
+
+.navbar-brand {
+    font-size: 2em;
+    font-style: bold;
+    font-family: sans-serif;
+    
+}
+
+.brand-text {
+    color: #63c6ff !important;
+}
+
+.nav-text {
+    color: rgba(56, 56, 56, 0.705);
+}
+
+.nav-text .fab .fa:hover {
+    color: #3db3f8;
+}
+
+.img-iphone {
+    max-width: 50%;
+    height: auto;
+}
+
+.hero-btn-text {
+    color: #fff;
+}
+
+
